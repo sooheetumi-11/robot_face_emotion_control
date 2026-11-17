@@ -1,0 +1,7 @@
+# Python Dependencies for TurtleBot 4 Face Emotion Control
+numpy<2
+protobuf==3.20.3
+opencv-python==4.10.0.84
+tensorflow==2.16.1
+tf-keras==2.16.0
+deepface==0.0.93
